@@ -1,7 +1,7 @@
 # Личный проект «Седона» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Кирилл Ерзылев](https://up.htmlacademy.ru/adaptive/19/user/997865).
-* Наставник: `Неизвестно`.
+* Наставник: `Кексобот`.
 
 ---
 
